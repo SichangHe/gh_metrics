@@ -29,4 +29,4 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: STATS401, learn_program, Notes_Steven, mdbook_katex_template, igem-2022-dku-backup, mdbook_fancy_theme, BigDecimal-Matrix-and-column-vector-calculator-in-Java, CoreMLProto
+          plugin_languages_skipped: CoreMLProto, reproduce_tensorflow_tensorflow_issue_61654, STATS401, learn_program, rails_tutorial, Notes_Steven, mdbook_katex_template, igem-2022-dku-backup, mdbook_fancy_theme, BigDecimal-Matrix-and-column-vector-calculator-in-Java
