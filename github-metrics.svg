@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.24284193618848" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="175.24284193618848" y="0" width="169.4709075516053" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="344.7137494877938" y="0" width="28.048971236343327" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="372.7627207241371" y="0" width="27.00842179396372" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="399.7711425181008" y="0" width="17.17476562423457" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="416.9459081423354" y="0" width="15.437246886564262" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="432.3831550288997" y="0" width="15.175850262312977" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="447.5590052912126" y="0" width="12.440994708787356" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.02737905354184" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="175.02737905354184" y="0" width="169.26254132185022" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="344.2899203753921" y="0" width="28.01448473674607" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="372.3044051121381" y="0" width="26.975214660644212" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="399.2796197727823" y="0" width="17.203163341251855" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="416.48278311403425" y="0" width="15.67325187635593" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="432.1560349903902" y="0" width="15.418266632206608" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="447.57430162259675" y="0" width="12.425698377403258" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -62,18 +62,18 @@
                                 Shell
                             </div>
                             <small>
-                                <div>64.7 kB</div>
+                                <div>64.9 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Lua
+                                Kotlin
                             </div>
                             <small>
-                                <div>57.2 kB</div>
+                                <div>58.2 kB</div>
                             </small>
                         </div>
                     </section>
@@ -103,12 +103,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                Lua
                             </div>
                             <small>
-                                <div>58.2 kB</div>
+                                <div>59.1 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
