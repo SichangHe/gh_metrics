@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.60358859059852" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="177.60358859059852" y="0" width="172.11775472682618" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="349.7213433174247" y="0" width="26.591478190078377" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="376.3128215075031" y="0" width="25.604998237940823" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="401.9178197454439" y="0" width="16.309466765378406" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="418.2272865108223" y="0" width="15.092766268996773" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="433.3200527798191" y="0" width="14.635089837699324" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="447.9551426175184" y="0" width="12.044857382481581" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.09222193672883" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="171.09222193672883" y="0" width="165.5115231538046" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="336.60374509053344" y="0" width="33.177611259392876" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="369.78135634992634" y="0" width="25.520794114408268" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="395.3021504643346" y="0" width="24.574033969051353" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="419.87618443338596" y="0" width="14.518114555093522" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="434.3942989884795" y="0" width="14.045819939906556" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="448.440118928386" y="0" width="11.559881071613974" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,18 +40,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>706 kB</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#6e4a7e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Elixir
-                            </div>
-                            <small>
-                                <div>105 kB</div>
+                                <div>709 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +51,18 @@
                                 Shell
                             </div>
                             <small>
-                                <div>64.8 kB</div>
+                                <div>137 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Ruby
+                            </div>
+                            <small>
+                                <div>101 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,18 +86,18 @@
                                 Python
                             </div>
                             <small>
-                                <div>684 kB</div>
+                                <div>686 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#6e4a7e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Ruby
+                                Elixir
                             </div>
                             <small>
-                                <div>101 kB</div>
+                                <div>105 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                                 Lua
                             </div>
                             <small>
-                                <div>60 kB</div>
+                                <div>60.1 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
