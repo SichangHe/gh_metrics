@@ -22,11 +22,9 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 20
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_details: bytes-size
-          plugin_languages_ignored: Batchfile, CSS, Handlebars, HTML, Jupyter Notebook, Less, Tex, VBScript, Markdown
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_ignored: Batchfile, CSS, Handlebars, HTML, Jupyter Notebook, Less, Tex, VBScript, Markdown, Shell
           plugin_languages_recent_categories: programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_skipped: CoreMLProto, reproduce_tensorflow_tensorflow_issue_61654, STATS401, learn_program, rails_tutorial, Notes_Steven, mdbook_katex_template, igem-2022-dku-backup, mdbook_fancy_theme, BigDecimal-Matrix-and-column-vector-calculator-in-Java
           commits_authoring: SichangHe, Steven Hé (Sīchàng), sichang.he@dukekunshan.edu.cn, stevensichanghe@gmail.com
