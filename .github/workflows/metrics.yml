@@ -1,6 +1,7 @@
 on:
+  # NOTE: Disabling cron job because buggy.
   # Schedule updates (each week)
-  schedule: [{ cron: "0 12 * * 0" }]
+  # schedule: [{ cron: "0 12 * * 0" }]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push:
