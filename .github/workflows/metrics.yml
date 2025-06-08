@@ -10,14 +10,18 @@ on:
 jobs:
   language-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SichangHe
           template: classic
           base: ""
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 20
           plugin_languages_categories: markup, programming
@@ -28,3 +32,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: CoreMLProto, reproduce_tensorflow_tensorflow_issue_61654, STATS401, learn_program, rails_tutorial, Notes_Steven, mdbook_katex_template, igem-2022-dku-backup, mdbook_fancy_theme, BigDecimal-Matrix-and-column-vector-calculator-in-Java
           commits_authoring: SichangHe, Steven Hé (Sīchàng), sichang.he@dukekunshan.edu.cn, stevensichanghe@gmail.com
+          output_action: pull-request
